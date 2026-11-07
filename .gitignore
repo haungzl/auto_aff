@@ -1,0 +1,7 @@
+dist/
+.venv/
+__pycache__/
+contact-sheet.jpg
+.DS_Store
+.wrangler/
+manifest.json
